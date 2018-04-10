@@ -1,0 +1,17 @@
+{
+  "name": "gg-30-seconds",
+  "version": "1.0.0",
+  "description": "Digital 30 seconds for GoalGorilla",
+  "main": "index.js",
+  "author": "Alexander Varwijk <alexander@goalgorilla.com>",
+  "license": "UNLICENSED",
+  "private": true,
+  "scripts": {
+    "dev": "next"
+  },
+  "dependencies": {
+    "next": "^5.1.0",
+    "react": "^16.3.1",
+    "react-dom": "^16.3.1"
+  }
+}
