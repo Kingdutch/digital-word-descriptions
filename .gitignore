@@ -1,2 +1,5 @@
 # Ignore NPM/Yarn modules
 node_modules/
+
+# Ignore NextJS buildfiles
+.next/
